@@ -1,0 +1,12 @@
+{
+  "name": "adfit-plugin-ios",
+  "description": "AdFit iOS SDK 연동을 위한 Claude Code 플러그인. 배너, 네이티브, 팝업, 하이브리드, 비즈보드 광고 구현과 SDK 초기 설정을 지원합니다.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kakao"
+  },
+  "repository": "https://github.com/adfit/adfit-plugin-ios",
+  "homepage": "https://github.com/adfit/adfit-plugin-ios",
+  "license": "MIT",
+  "keywords": ["ios", "adfit", "advertising", "sdk", "kakao", "swift"]
+}
